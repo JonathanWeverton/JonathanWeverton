@@ -1,6 +1,6 @@
 
 ##👋 Olá! Bem-vindo ao meu GitHub!
-Sou um estudante de Análise e Desenvolvimento de Sistemas, combinando a teoria da faculdade com um curso mais prático para acelerar meu aprendizado. Tenho experiência em HTML e CSS e estou iniciando em JavaScript e React. Meu foco é criar projetos interativos, acessíveis e funcionais.
+Sou um estudante de Análise e Desenvolvimento de Sistemas, combinando a teoria da faculdade com um curso mais prático para acelerar meu aprendizado. Tenho experiência em HTML e CSS e, estou iniciando em JavaScript e React. Meu foco é criar projetos interativos, acessíveis e funcionais.
 <b>
 
 🔹 Tecnologias: HTML, CSS, JavaScript (iniciando), React (iniciando)
